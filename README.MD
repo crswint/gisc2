@@ -1,0 +1,1 @@
+This is an example project for the Geospatial Web Application class.
