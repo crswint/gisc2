@@ -1,0 +1,2 @@
+[{"fields": {"status": true, "name": "Trimble1", "desc": "Trimble data collector"}, "model": "units.unit", "pk": 1},
+    {"fields": {"status": true, "name": "Trimble2", "desc": "trimble collector"}, "model": "units.unit", "pk": 2}]
